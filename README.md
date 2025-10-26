@@ -8,4 +8,7 @@
 - 💬 Ask me about Java
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i can sing like a chicken
-![Juan Carrillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdCarrillo15&hide=contribs,prs)
+
+<div>
+  ![Juan Carrillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdCarrillo15&hide=contribs,prs)
+</div>
