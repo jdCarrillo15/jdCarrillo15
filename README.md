@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning about Cibersecurity
-- 💬 Ask me about Java
+- 💬 Ask me about Java, Python, Node
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i can sing like a chicken
 
-<div></div>
-![Juan Carrillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdCarrillo15&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdCarrillo15&layout=pie)](https://github.com/jdCarrillo15/github-readme-stats)
